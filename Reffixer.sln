@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reffixer", "Reffixer.csproj", "{43BE3EA6-0E4D-45F0-B5E1-8BD33FB56317}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reffixer", "Reffixer\Reffixer.csproj", "{43BE3EA6-0E4D-45F0-B5E1-8BD33FB56317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reffixer.UnitTests", "..\Reffixer.UnitTests\Reffixer.UnitTests.csproj", "{120DCD08-919F-4C26-95F3-21F64C3056D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reffixer.UnitTests", "Reffixer.UnitTests\Reffixer.UnitTests.csproj", "{120DCD08-919F-4C26-95F3-21F64C3056D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionParser", "SolutionParser\SolutionParser.csproj", "{6AC236BB-C590-40EA-BA85-15B74721B713}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionParser", "Reffixer\SolutionParser\SolutionParser.csproj", "{6AC236BB-C590-40EA-BA85-15B74721B713}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
